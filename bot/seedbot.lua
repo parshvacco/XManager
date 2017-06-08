@@ -237,7 +237,7 @@ function create_config( )
     "time",
     "translate"
     },
-    sudo_users = {89522941,0,tonumber(our_id)},--Sudo users
+    sudo_users = {165342237,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
